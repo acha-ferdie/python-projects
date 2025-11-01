@@ -85,8 +85,8 @@ Automates reading, writing, and editing **Excel spreadsheets**.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/acha-ferdie/python-projects.git
+   cd python-projects
 
 Navigate to a specific project
 
